@@ -1,0 +1,21 @@
+T1	ORG 10 18	ABC News
+T2	PER 50 77	Дэвид Уэстин (David Westin)
+T3	ORG 136 144	ABC News
+T4	ORG 184 200	Associated Press
+T5	PER 234 240	Уэстин
+T6	PER 402 408	Уэстин
+T7	PER 473 479	Уэстин
+T8	PER 640 652	Дэвид Уэстин
+T9	ORG 688 696	ABC News
+T10	PER 725 737	Дэвид Уэстин
+T11	ORG 810 818	ABC News
+T12	PER 849 856	Уэстина
+T13	ORG 860 868	ABC News
+T14	PER 985 991	Уэстин
+T15	ORG 1030 1038	ABC News
+T16	ORG 1045 1055	World News
+T17	ORG 1059 1079	Good Morning America
+T18	ORG 1084 1093	This Week
+T19	ORG 1124 1133	This Week
+T20	PER 1153 1192	Кристиана Аманпур (Christiane Amanpour)
+T21	ORG 1237 1240	CNN
